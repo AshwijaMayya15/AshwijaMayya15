@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Research Project, which i will reveal after publishing its paper**
 
-- 🌱 I’m currently learning **Google Cloud Platform and Microsoft PowerBI**
+- 🌱 I’m currently learning **Microsoft PowerBI, Visual language models and Data preprocessing tools and techniques**
 
 - 💬 Ask me about **Machine learning, Neural Networks, Computer Vision and Data science related topics.**
 
